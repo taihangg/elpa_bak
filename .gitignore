@@ -1,6 +1,7 @@
 # ignore files
 
 *.elc
+*-autoloads.el
 
 # but these files
 # !*.el
